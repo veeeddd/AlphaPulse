@@ -1,0 +1,20 @@
+# --- Virtual Environment ---
+venv/
+.venv/
+env/
+
+# --- Databases (DuckDB & SQLite) ---
+*.db
+*.duckdb
+*.wal
+*.tmp/
+
+# --- Python Caches & Artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# --- Environment Secrets ---
+.env
+.venv

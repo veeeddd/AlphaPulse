@@ -1,0 +1,6 @@
+duckdb
+transformers
+torch
+beautifulsoup4
+requests
+pandas
