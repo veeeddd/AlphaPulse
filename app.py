@@ -1,15 +1,15 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import yfinance as yf
 from db_manager import get_connection
 
-st.set_page_config(page_title="AlphaPulse: Momentum", layout="wide")
+st.set_page_config(page_title="AlphaPulse: Price Correlation", layout="wide")
 
-st.title("📈 AlphaPulse: Sentiment Momentum")
+st.title("📊 AlphaPulse: Price-Sentiment Correlation")
 
 def load_data():
     with get_connection() as conn:
-        # Fetch data and ensure timestamp is a datetime object
         df = conn.execute("SELECT * FROM alpha_scores ORDER BY timestamp ASC").df()
     df['timestamp'] = pd.to_datetime(df['timestamp'])
     return df
@@ -17,32 +17,35 @@ def load_data():
 data = load_data()
 
 if not data.empty:
-    # Sidebar Filters
-    ticker = st.sidebar.selectbox("Select Asset", options=data['ticker'].unique())
-    ticker_data = data[data['ticker'] == ticker]
+    ticker_symbol = st.sidebar.selectbox("Select Asset", options=data['ticker'].unique())
+    ticker_data = data[data['ticker'] == ticker_symbol]
 
-    # Calculate Momentum (3-period rolling average)
-    ticker_data['momentum'] = ticker_data['alpha_score'].rolling(window=3).mean()
-
-    # Layout: Top Metrics
-    c1, c2 = st.columns(2)
-    latest_score = ticker_data['alpha_score'].iloc[-1]
-    momentum_val = ticker_data['momentum'].iloc[-1]
+    # Day 9 Feature: Fetch Real Price Data
+    st.sidebar.subheader("Price Data Settings")
+    period = st.sidebar.selectbox("Period", ["1d", "5d", "1mo"], index=1)
     
-    c1.metric(f"Current {ticker} Alpha", f"{latest_score:.2f}")
-    c2.metric("Pulse Momentum", f"{momentum_val:.2f}", 
-              delta=f"{momentum_val - latest_score:.2f}")
+    with st.spinner(f"Syncing market data for {ticker_symbol}..."):
+        stock = yf.Ticker(ticker_symbol)
+        price_history = stock.history(period=period).reset_index()
+        price_history['Date'] = pd.to_datetime(price_history['Date']).dt.tz_localize(None)
 
-    # Layout: Trend Chart
-    st.subheader(f"{ticker} Sentiment Trajectory")
-    fig = px.line(ticker_data, x='timestamp', y=['alpha_score', 'momentum'],
-                  title=f"Raw Score vs. Momentum for {ticker}",
-                  labels={'value': 'Score', 'timestamp': 'Time'},
-                  template="plotly_dark")
+    # Visualization: Sentiment vs Price
+    st.subheader(f"{ticker_symbol} Predictive Pulse")
+    
+    fig = px.line(ticker_data, x='timestamp', y='alpha_score', 
+                  title="AI Alpha Score", template="plotly_dark")
+    fig.add_scatter(x=price_history['Date'], y=price_history['Close'], 
+                    name="Market Price", yaxis="y2")
+    
+    fig.update_layout(
+        yaxis2=dict(title="Stock Price ($)", overlaying="y", side="right"),
+        yaxis=dict(title="Alpha Score (Sentiment)"),
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+    )
+    
     st.plotly_chart(fig, use_container_width=True)
 
-    # Detailed Intelligence Table
-    st.subheader("Raw Intelligence Feed")
-    st.dataframe(ticker_data[['timestamp', 'sentiment', 'headline']].sort_values(by='timestamp', ascending=False))
+    # Correlation Logic
+    st.info("💡 **Quant Insight:** When Alpha Score peaks before a price jump, you've found a 'Lead Indicator'.")
 else:
-    st.warning("Data Lake is empty. Run 'python main.py' to generate signals.")
+    st.warning("No signals found. Please run the orchestrator.")
