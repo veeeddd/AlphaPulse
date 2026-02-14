@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AlphaPu.png" width="200" alt="AlphaPulse Logo">
+</p>
+
 # 🛡️ AlphaPulse: Enterprise-Grade Quant Sentiment Engine
 
 **AlphaPulse** is a real-time NLP signal pipeline that extracts tradable sentiment factors from financial news. It leverages specialized transformer models and high-throughput time-series storage to identify "Alpha" before the market reacts.
