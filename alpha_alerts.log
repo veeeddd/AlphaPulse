@@ -1,0 +1,296 @@
+2026-02-13 23:46:34,858 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-13 23:46:34,907 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/config.json "HTTP/1.1 200 OK"
+2026-02-13 23:46:35,185 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-13 23:46:35,238 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-02-13 23:46:35,507 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-02-13 23:46:35,788 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-02-13 23:46:36,104 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-13 23:46:36,152 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/config.json "HTTP/1.1 200 OK"
+2026-02-13 23:46:36,998 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-02-13 23:46:37,325 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert "HTTP/1.1 200 OK"
+2026-02-13 23:46:37,968 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/commits/main "HTTP/1.1 200 OK"
+2026-02-13 23:46:38,272 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/discussions?p=0 "HTTP/1.1 200 OK"
+2026-02-13 23:46:38,611 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/commits/refs%2Fpr%2F29 "HTTP/1.1 200 OK"
+2026-02-13 23:46:38,881 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-02-13 23:46:39,161 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors "HTTP/1.1 302 Found"
+2026-02-13 23:46:48,643 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.96 | Here's Why Apple’s Stock Dropped 5% Today
+2026-02-13 23:46:48,749 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.93 | Hopes Fade For Early 2026 Apple Siri Release. Apple Stock Drops.
+2026-02-13 23:46:48,868 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.96 | Apple's stock has worst day since April as iPhone maker faces FTC scrutiny, reports of Siri delay
+2026-02-13 23:46:48,949 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.93 | Apple stock falls 5% after delay in AI Siri launch
+2026-02-13 23:46:49,004 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.92 | Here’s why Apple stock is plunging on Thursday
+2026-02-13 23:47:00,586 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.86 | As Tesla Loses in Europe, Here Is What Investors Need for TSLA Stock to Win in 2026
+2026-02-13 23:47:00,933 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.92 | TSLA stock price: Why Tesla stock is surging today – strong earnings, $2 billion xAI investment, and Cyber
+2026-02-13 23:47:01,108 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.94 | Musk Said There Are Safety Monitor-Free Robotaxis Available. Why The Attention Is All On The Q4 Earnings Call.
+2026-02-13 23:47:01,205 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.94 | Why Tesla (TSLA) Stock Is Trading Lower Today
+2026-02-13 23:47:11,852 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.90 | Nvidia Shares Go Cold Even as Big Tech Spending on AI Balloons
+2026-02-13 23:47:11,954 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.95 | Why Nvidia, Intel, Netflix, and Palantir stocks crash today: US stock market in deep red as Nasdaq sinks 1
+2026-02-13 23:47:12,135 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.93 | UBS raises Nvidia stock price target to $245 on positive earnings outlook
+2026-02-13 23:47:20,086 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.87 | Microsoft (MSFT) Stock Trades Up, Here Is Why
+2026-02-13 23:47:20,388 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.92 | Microsoft | MSFT Stock Price, Company Overview & News
+2026-02-13 23:47:20,523 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.96 | Microsoft stock crashes today: Why MSFT shares plunged nearly 12% today — Is AI taking its toll as Microso
+2026-02-13 23:47:29,861 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.93 | AMD stock coverage initiated by DA Davidson with Neutral rating
+2026-02-13 23:47:30,085 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.95 | AMD Stock Fails to Revive Uptrend, Heads Under $200 on Downgrade, Soft FY26
+2026-02-13 23:47:30,149 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.93 | AMD Stock Faces an AI Reality Check, Says Top Analyst
+2026-02-13 23:52:31,412 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-13 23:52:31,461 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/config.json "HTTP/1.1 200 OK"
+2026-02-13 23:52:31,739 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-13 23:52:31,787 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-02-13 23:52:32,062 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-02-13 23:52:32,329 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-02-13 23:52:32,631 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-13 23:52:32,678 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/config.json "HTTP/1.1 200 OK"
+2026-02-13 23:52:33,164 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-02-13 23:52:33,458 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert "HTTP/1.1 200 OK"
+2026-02-13 23:52:33,785 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/commits/main "HTTP/1.1 200 OK"
+2026-02-13 23:52:34,077 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/discussions?p=0 "HTTP/1.1 200 OK"
+2026-02-13 23:52:34,423 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/commits/refs%2Fpr%2F29 "HTTP/1.1 200 OK"
+2026-02-13 23:52:34,689 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-02-13 23:52:34,956 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors "HTTP/1.1 302 Found"
+2026-02-13 23:52:34,956 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-02-13 23:52:42,223 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.96 | Here's Why Apple’s Stock Dropped 5% Today
+2026-02-13 23:52:42,343 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.93 | Hopes Fade For Early 2026 Apple Siri Release. Apple Stock Drops.
+2026-02-13 23:52:42,448 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.96 | Apple's stock has worst day since April as iPhone maker faces FTC scrutiny, reports of Siri delay
+2026-02-13 23:52:42,509 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.93 | Apple stock falls 5% after delay in AI Siri launch
+2026-02-13 23:52:42,576 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.92 | Here’s why Apple stock is plunging on Thursday
+2026-02-13 23:52:49,162 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.86 | As Tesla Loses in Europe, Here Is What Investors Need for TSLA Stock to Win in 2026
+2026-02-13 23:52:49,353 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.92 | TSLA stock price: Why Tesla stock is surging today – strong earnings, $2 billion xAI investment, and Cyber
+2026-02-13 23:52:49,467 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.94 | Musk Said There Are Safety Monitor-Free Robotaxis Available. Why The Attention Is All On The Q4 Earnings Call.
+2026-02-13 23:52:49,524 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.94 | Why Tesla (TSLA) Stock Is Trading Lower Today
+2026-02-13 23:52:56,440 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.90 | Nvidia Shares Go Cold Even as Big Tech Spending on AI Balloons
+2026-02-13 23:52:56,565 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.95 | Why Nvidia, Intel, Netflix, and Palantir stocks crash today: US stock market in deep red as Nasdaq sinks 1
+2026-02-13 23:52:56,767 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.93 | UBS raises Nvidia stock price target to $245 on positive earnings outlook
+2026-02-13 23:53:05,769 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.87 | Microsoft (MSFT) Stock Trades Up, Here Is Why
+2026-02-13 23:53:06,023 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.92 | Microsoft | MSFT Stock Price, Company Overview & News
+2026-02-13 23:53:06,135 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.96 | Microsoft stock crashes today: Why MSFT shares plunged nearly 12% today — Is AI taking its toll as Microso
+2026-02-13 23:53:16,535 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.93 | AMD stock coverage initiated by DA Davidson with Neutral rating
+2026-02-13 23:53:16,717 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.95 | AMD Stock Fails to Revive Uptrend, Heads Under $200 on Downgrade, Soft FY26
+2026-02-13 23:53:16,772 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.93 | AMD Stock Faces an AI Reality Check, Says Top Analyst
+2026-02-14 10:27:57,753 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-14 10:27:57,798 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/config.json "HTTP/1.1 200 OK"
+2026-02-14 10:27:58,073 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-14 10:27:58,119 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-02-14 10:27:58,392 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-02-14 10:27:58,710 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-02-14 10:27:59,028 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-14 10:27:59,077 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/config.json "HTTP/1.1 200 OK"
+2026-02-14 10:28:19,926 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-02-14 10:28:20,320 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert "HTTP/1.1 200 OK"
+2026-02-14 10:28:20,787 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/commits/main "HTTP/1.1 200 OK"
+2026-02-14 10:28:21,073 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/discussions?p=0 "HTTP/1.1 200 OK"
+2026-02-14 10:28:21,476 - INFO - HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/commits/refs%2Fpr%2F29 "HTTP/1.1 200 OK"
+2026-02-14 10:28:21,715 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-02-14 10:28:22,072 - INFO - HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors "HTTP/1.1 302 Found"
+2026-02-14 10:28:32,644 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.96 | Apple's stock has worst day since April as iPhone maker faces FTC scrutiny, reports of Siri delay
+2026-02-14 10:28:32,694 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.93 | Apple stock falls 5% after delay in AI Siri launch
+2026-02-14 10:28:32,809 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.93 | Hopes Fade For Early 2026 Apple Siri Release. Apple Stock Drops.
+2026-02-14 10:28:32,845 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.92 | Here’s why Apple stock is plunging on Thursday
+2026-02-14 10:28:32,914 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.94 | Apple Stock Fell 5% in Its Worst Day Since April — The Real Reason Wasn’t Just Siri
+2026-02-14 10:28:32,956 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.96 | Here's Why Apple’s Stock Dropped 5% Today
+2026-02-14 10:28:33,107 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AAPL | Score: 0.95 | Apple stock price slips again as FTC Apple News warning and Siri AI delay report weigh on AAPL
+2026-02-14 10:28:44,265 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.89 | Is Tesla Stock Headed To $300?
+2026-02-14 10:28:44,331 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.86 | As Tesla Loses in Europe, Here Is What Investors Need for TSLA Stock to Win in 2026
+2026-02-14 10:28:44,392 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.95 | Tesla (TSLA) Stock Down 3% Since Earnings – Should You Buy the Dip?
+2026-02-14 10:28:44,456 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.92 | TSLA Stock Today, February 11: SpaceX Moon Pivot, IPO Buzz Stokes Musk Trade
+2026-02-14 10:28:44,563 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.97 | Tesla (TSLA) Stock Down 16% From All-Time Highs – Should Investors Buy the Dip?
+2026-02-14 10:28:44,681 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.85 | TSLA Stock in Focus Ahead of Q4 Numbers: What to Expect from Tesla Earnings?
+2026-02-14 10:28:44,741 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.92 | TSLA stock price: Why Tesla stock is surging today – strong earnings, $2 billion xAI investment, and Cyber
+2026-02-14 10:28:44,805 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TSLA | Score: 0.94 | Musk Said There Are Safety Monitor-Free Robotaxis Available. Why The Attention Is All On The Q4 Earnings Call.
+2026-02-14 10:28:52,060 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.90 | Nvidia Shares Go Cold Even as Big Tech Spending on AI Balloons
+2026-02-14 10:28:52,117 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.94 | Nvidia's stock is down and AMD is up. The culprit may be Arista.
+2026-02-14 10:28:52,214 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.92 | Nvidia stock tumbles over 2%: why investors are booking profits
+2026-02-14 10:28:52,269 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.95 | Key facts: Nvidia to lease data center; CEO cites sustainable spending; stock dips
+2026-02-14 10:28:52,339 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.95 | Why Nvidia, Intel, Netflix, and Palantir stocks crash today: US stock market in deep red as Nasdaq sinks 1
+2026-02-14 10:28:52,389 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.93 | UBS raises Nvidia stock price target to $245 on positive earnings outlook
+2026-02-14 10:28:52,474 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.96 | Nvidia Just Delivered Very Bad News for Tesla Stock Investors
+2026-02-14 10:28:52,532 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NVDA | Score: 0.93 | Nvidia Stock Wobbles. The Focus Is Turning to Earnings.
+2026-02-14 10:29:02,116 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.87 | Microsoft (MSFT) Stock Trades Up, Here Is Why
+2026-02-14 10:29:02,182 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.95 | Two Years to Unemployment: Microsoft Stock (NASDAQ:MSFT) Notches Up With New Projection of AI in White Collar Work
+2026-02-14 10:29:02,366 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.96 | Microsoft stock crashes today: Why MSFT shares plunged nearly 12% today — Is AI taking its toll as Microso
+2026-02-14 10:29:02,470 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.96 | MSFT Stock Risks A Breakdown If Support Goes, as Microsoft’s AI Costs Soar
+2026-02-14 10:29:02,524 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.92 | 4 stocks to watch on Thursday: MCD, MSFT, PLTR, NBIS
+2026-02-14 10:29:02,569 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.95 | Why Microsoft (MSFT) Stock Is Declining Today
+2026-02-14 10:29:02,628 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MSFT | Score: 0.93 | Fund Update: 21,231,333 MICROSOFT (MSFT) shares added to Cardano Risk Management B.V. portfolio
+2026-02-14 10:29:13,879 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.94 | Nvidia's stock is down and AMD is up. The culprit may be Arista.
+2026-02-14 10:29:13,979 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.93 | AMD stock coverage initiated by DA Davidson with Neutral rating
+2026-02-14 10:29:14,105 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.91 | AMD Stock Forms Bearish Double Top — Is a Major Drop Ahead?
+2026-02-14 10:29:14,205 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.93 | AMD Stock Faces an AI Reality Check, Says Top Analyst
+2026-02-14 10:29:14,255 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.87 | AMD (AMD) Stock Trades Up, Here Is Why
+2026-02-14 10:29:14,317 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMD | Score: 0.95 | AMD stock tumbles 3%: analysts say market is missing this key catalyst
+2026-02-14 10:29:22,568 - INFO - \U0001f680 HIGH ALPHA SIGNAL: GOOGL | Score: 0.89 | What Does Alphabet’s $31.5 Billion Bond Sale Really Mean for GOOGL Stock Investors?
+2026-02-14 10:29:22,599 - INFO - \U0001f680 HIGH ALPHA SIGNAL: GOOGL | Score: 0.92 | Alphabet Stock: Is It Time to Buy the Dip?
+2026-02-14 10:29:22,752 - INFO - \U0001f680 HIGH ALPHA SIGNAL: GOOGL | Score: 0.90 | Does Google Stock Have Any More Room To Run?
+2026-02-14 10:29:22,862 - INFO - \U0001f680 HIGH ALPHA SIGNAL: GOOGL | Score: 0.95 | Alphabet Stock Is Down... But Not For Long (NASDAQ:GOOGL)
+2026-02-14 10:29:22,913 - INFO - \U0001f680 HIGH ALPHA SIGNAL: GOOGL | Score: 0.94 | New Street Research Forecasts Strong Price Appreciation for Alphabet (NASDAQ:GOOGL) Stock
+2026-02-14 10:29:22,969 - INFO - \U0001f680 HIGH ALPHA SIGNAL: GOOGL | Score: 0.86 | Alphabet’s (GOOGL) Value “Is Just Awesome,” Says Jim Cramer
+2026-02-14 10:29:33,829 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMZN | Score: 0.95 | Amazon Joins Microsoft in Bear Market. Why Mag 7 Stocks Are Struggling.
+2026-02-14 10:29:33,886 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMZN | Score: 0.93 | $200 billion that continues to ‘frighten’ Amazon investors, as company's shares post their longest streak
+2026-02-14 10:29:33,936 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMZN | Score: 0.93 | 3 Reasons to Buy Amazon Stock Like There's No Tomorrow
+2026-02-14 10:29:34,088 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMZN | Score: 0.90 | Why Amazon Stock and the Rest of Big Tech Could Be the Next GE. That’s Not a Good Thing.
+2026-02-14 10:29:34,192 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMZN | Score: 0.93 | Why Amazon’s AI spending triggered the stock’s worst slide in over a year
+2026-02-14 10:29:34,239 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMZN | Score: 0.88 | After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued?
+2026-02-14 10:29:34,292 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AMZN | Score: 0.95 | Amazon joins Microsoft in bear market. Why Mag 7 stocks are struggling.
+2026-02-14 10:29:44,877 - INFO - \U0001f680 HIGH ALPHA SIGNAL: META | Score: 0.93 | Billionaire Investor Bill Ackman Exits Chipotle Completely, Buys Meta Stock Instead
+2026-02-14 10:29:44,925 - INFO - \U0001f680 HIGH ALPHA SIGNAL: META | Score: 0.93 | Billionaire Bill Ackman Is Betting Big on Meta Platforms Stock. Should You?
+2026-02-14 10:29:45,121 - INFO - \U0001f680 HIGH ALPHA SIGNAL: META | Score: 0.87 | Fund Update: New $30.4M $META stock position opened by ONTARIO TEACHERS PENSION PLAN BOARD
+2026-02-14 10:29:52,744 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NFLX | Score: 0.91 | Netflix stock (NFLX) down 5%, hits 52-week low - here's what investors need to know
+2026-02-14 10:29:52,789 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NFLX | Score: 0.96 | Netflix stock hits 52-week low at $79 amid challenging year
+2026-02-14 10:29:52,830 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NFLX | Score: 0.87 | Analysts See 55% Upside for Netflix Despite $77 Share Price
+2026-02-14 10:29:52,938 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NFLX | Score: 0.91 | Netflix Stock Is Down 15%. Should You Buy the Dip?
+2026-02-14 10:29:52,999 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NFLX | Score: 0.92 | Netflix Has Released 28 Seasons of Its Sales Growth Series. What Will Season 29 Look Like?
+2026-02-14 10:29:53,139 - INFO - \U0001f680 HIGH ALPHA SIGNAL: NFLX | Score: 0.89 | NFLX Stock Today, February 13: Dip Deepens on $82.7B WBD Deal Risk
+2026-02-14 10:30:02,634 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BRK-B | Score: 0.93 | Warren Buffett Explains Market Volatility and What You Can Do Right Now
+2026-02-14 10:30:02,692 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BRK-B | Score: 0.94 | BRK.B or AIG: Which Insurance Stock Should Investors Bet On?
+2026-02-14 10:30:02,756 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BRK-B | Score: 0.93 | Is Berkshire Hathaway (BRK.B) Undervalued After Recent Stable Share Price Performance
+2026-02-14 10:30:02,863 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BRK-B | Score: 0.95 | Prediction: This Will Be Berkshire Hathaway's Stock Price 5 Years From Now
+2026-02-14 10:30:02,913 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BRK-B | Score: 0.92 | Will Berkshire Hathaway Be the Same After Buffett -- or Better?
+2026-02-14 10:30:02,976 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BRK-B | Score: 0.90 | Berkshire Hathaway (BRK.B) Valuation Check As Shares Trade Sideways And DCF Suggests Possible Discount
+2026-02-14 10:30:11,370 - INFO - \U0001f680 HIGH ALPHA SIGNAL: JPM | Score: 0.92 | JPMorgan Chase & Co. (JPM) upgraded to neutral despite valuation concerns
+2026-02-14 10:30:11,427 - INFO - \U0001f680 HIGH ALPHA SIGNAL: JPM | Score: 0.90 | Payouts set: JPMorgan Chase declares dividends on two preferred series
+2026-02-14 10:30:11,485 - INFO - \U0001f680 HIGH ALPHA SIGNAL: JPM | Score: 0.92 | Goldman Sachs, JPMorgan, and Citigroup All Plunge Over 5% on Thursday
+2026-02-14 10:30:11,546 - INFO - \U0001f680 HIGH ALPHA SIGNAL: JPM | Score: 0.92 | JPMorgan Chase & Co. (JPM) Upgraded to Neutral Despite Valuation Concerns
+2026-02-14 10:30:11,611 - INFO - \U0001f680 HIGH ALPHA SIGNAL: JPM | Score: 0.91 | JPMorgan Chase & Co. (NYSE:JPM) Stock Price Down 2.6% - Should You Sell?
+2026-02-14 10:30:11,722 - INFO - \U0001f680 HIGH ALPHA SIGNAL: JPM | Score: 0.92 | ‘You Are a Criminal’: JPMorgan Stock (JPM) Slides as Trump Adviser Bashes CEO over Credit Card Rates
+2026-02-14 10:30:11,783 - INFO - \U0001f680 HIGH ALPHA SIGNAL: JPM | Score: 0.95 | Undercovered Stocks: D-Wave Quantum, JPMorgan, Aris Mining And More
+2026-02-14 10:30:11,885 - INFO - \U0001f680 HIGH ALPHA SIGNAL: JPM | Score: 0.89 | Why Did JPMorgan Stock Fall Nearly 5%?
+2026-02-14 10:30:23,909 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.95 | Visa (NYSE:V) Stock Price Down 3.1% - Here's Why
+2026-02-14 10:30:23,965 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.97 | Visa (V) Stock: Moves Down as Consumer Spending and Jobs Data Stir Caution
+2026-02-14 10:30:24,008 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.94 | Why Visa (V) Stock Is Trading Lower Today
+2026-02-14 10:30:24,072 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.94 | $V stock is down 3% today. Here's what we see in our data. | V Stock News
+2026-02-14 10:30:24,118 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.93 | (IVQ.DB.V) Technical Patterns and Signals
+2026-02-14 10:30:24,175 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.85 | Visa Inc. $V Stock Holdings Lifted by Caisse Des Depots ET Consignations
+2026-02-14 10:30:24,243 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.94 | Visa (NYSE: V) Stock Price Prediction and Forecast 2026-2030 (Feb 2026)
+2026-02-14 10:30:24,277 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.85 | Why Visa Stock Is Up Today
+2026-02-14 10:30:24,325 - INFO - \U0001f680 HIGH ALPHA SIGNAL: V | Score: 0.93 | Visa Stock Upgraded To Buy On Upside Potential, Stablecoin Prospects
+2026-02-14 10:30:35,081 - INFO - \U0001f680 HIGH ALPHA SIGNAL: UNH | Score: 0.91 | UnitedHealth: After The Collapse (NYSE:UNH)
+2026-02-14 10:30:35,151 - INFO - \U0001f680 HIGH ALPHA SIGNAL: UNH | Score: 0.90 | UnitedHealth (UNH) stock price today: shares rise as healthcare gets a bid, but Medicare Advantage rates still loom
+2026-02-14 10:30:35,200 - INFO - \U0001f680 HIGH ALPHA SIGNAL: UNH | Score: 0.94 | Why Did UnitedHealth Stock Fall 20% in a Day?
+2026-02-14 10:30:35,316 - INFO - \U0001f680 HIGH ALPHA SIGNAL: UNH | Score: 0.92 | UnitedHealth Group Incorporated $UNH Shares Bought by Public Sector Pension Investment Board
+2026-02-14 10:30:35,415 - INFO - \U0001f680 HIGH ALPHA SIGNAL: UNH | Score: 0.90 | Should You Buy the 3 Highest-Paying Dividend Stocks in the Dow Jones? (One Recently Yielded 6%.)
+2026-02-14 10:30:35,475 - INFO - \U0001f680 HIGH ALPHA SIGNAL: UNH | Score: 0.88 | UnitedHealth Group Stock (UNH) Opinions on Earnings Miss and Medicare Headwinds
+2026-02-14 10:30:35,524 - INFO - \U0001f680 HIGH ALPHA SIGNAL: UNH | Score: 0.97 | UnitedHealth Sees First Annual Revenue Drop in Over 30 Years
+2026-02-14 10:30:35,583 - INFO - \U0001f680 HIGH ALPHA SIGNAL: UNH | Score: 0.92 | Healthcare Under Fire: FDA Action, Lawsuits, and Downgrades Hit Hims, UNH Stock
+2026-02-14 10:30:45,563 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MA | Score: 0.95 | Mastercard (NYSE:MA) Stock Signal
+2026-02-14 10:30:45,615 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MA | Score: 0.93 | Two senior Mastercard leaders to speak at March investor forums
+2026-02-14 10:30:45,677 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MA | Score: 0.96 | Mastercard (MA) Stock: Plans 4% Staff Cut Amid Restructuring and Strategic Shift
+2026-02-14 10:30:45,728 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MA | Score: 0.96 | Why Mastercard (MA) Stock Is Trading Lower Today
+2026-02-14 10:30:45,920 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MA | Score: 0.92 | Mastercard (MA) Stock News Today: TerraPay Wallet Expansion, Open Finance Push, and Analyst Forecasts for Dec. 12, 2025
+2026-02-14 10:30:45,984 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MA | Score: 0.88 | Mastercard’s (NYSE:MA) Q3: Beats On Revenue
+2026-02-14 10:30:46,051 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MA | Score: 0.94 | Mastercard (MA) Stock News, Forecasts and Analyst Outlook: What Investors Are Watching on December 20, 2025
+2026-02-14 10:30:58,465 - INFO - \U0001f680 HIGH ALPHA SIGNAL: HD | Score: 0.92 | Here is What to Know Beyond Why The Home Depot, Inc. (HD) is a Trending Stock
+2026-02-14 10:30:58,536 - INFO - \U0001f680 HIGH ALPHA SIGNAL: HD | Score: 0.94 | A Home Depot With Live DJ? Home Depot Stock (NYSE:HD) Notches Up as QXO Gains Ground
+2026-02-14 10:30:58,603 - INFO - \U0001f680 HIGH ALPHA SIGNAL: HD | Score: 0.90 | Home Depot Stock Trading at a Premium: Should You Restrain Buying HD?
+2026-02-14 10:30:58,653 - INFO - \U0001f680 HIGH ALPHA SIGNAL: HD | Score: 0.95 | 7 Dividend Stocks to Buy and Hold Forever
+2026-02-14 10:30:58,816 - INFO - \U0001f680 HIGH ALPHA SIGNAL: HD | Score: 0.92 | Home Depot stock rises 3% as retailer maintains full-year forecast
+2026-02-14 10:30:58,866 - INFO - \U0001f680 HIGH ALPHA SIGNAL: HD | Score: 0.95 | Home Depot (HD) Stock Is Coming Back, Says Jim Cramer
+2026-02-14 10:30:58,994 - INFO - \U0001f680 HIGH ALPHA SIGNAL: HD | Score: 0.94 | Home Depot Stock (NYSE:HD) Notches Up as QXO Gains Ground
+2026-02-14 10:31:10,668 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.95 | Coombe, Procter & Gamble CEO - grooming, sells $5.86m in PG stock By Investing.com
+2026-02-14 10:31:10,733 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.85 | Procter & Gamble Shares Jump 10% in a Month: Time to Buy or Wait?
+2026-02-14 10:31:10,795 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.95 | Insider Sale: Chief Human Resources Officer of $PG Sells 12,827 Shares
+2026-02-14 10:31:10,861 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.92 | Stocks to buy or sell: Osho Krishan of Angel One suggests buying PG Electroplast, Max Health shares on 12 February
+2026-02-14 10:31:10,923 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.92 | Why Procter & Gamble Stock Hit a 2-Year Low on Tuesday
+2026-02-14 10:31:10,990 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.95 | PG Stock Price, Forecast & Analysis | PROCTER & GAMBLE CO/THE (NYSE:PG)
+2026-02-14 10:31:11,130 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.94 | Procter & Gamble (PG) Stock Today: Latest News, Analyst Forecasts, Dividend Outlook, and Key Levels (Dec. 15, 2025)
+2026-02-14 10:31:11,181 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.94 | Jim Cramer Discusses Procter & Gamble (PG) Stock
+2026-02-14 10:31:11,252 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PG | Score: 0.94 | Procter & Gamble (PG) Stock News Today: December 19, 2025 Updates, Analyst Forecasts, Price Targets, and What to Watch Next
+2026-02-14 10:31:19,244 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BAC | Score: 0.92 | BAC Trades at a Discount to Industry: Right Time to Buy the Stock?
+2026-02-14 10:31:19,441 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BAC | Score: 0.95 | Bank of America (NYSE:BAC) Stock Price Down 2.5% - What's Next?
+2026-02-14 10:31:19,496 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BAC | Score: 0.93 | Bank Of America Preferreds Offer Interest Rate Protection (NYSE:BAC)
+2026-02-14 10:31:19,557 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BAC | Score: 0.97 | Bank of America (BAC) Stock: Dips as Traders Brace for Payroll Data
+2026-02-14 10:31:19,673 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BAC | Score: 0.96 | BAC stock today falls despite Bank of America beating Q4 earnings estimates: What investors are worried ab
+2026-02-14 10:31:19,726 - INFO - \U0001f680 HIGH ALPHA SIGNAL: BAC | Score: 0.91 | Bank of America, Wells Fargo Slip, Citi Pops On Bank Earnings Day 2
+2026-02-14 10:31:27,968 - INFO - \U0001f680 HIGH ALPHA SIGNAL: DIS | Score: 0.86 | Disney Stock Hasn’t Gone Anywhere Under Iger’s Watch: Could Things Change Under D'Amaro?
+2026-02-14 10:31:28,026 - INFO - \U0001f680 HIGH ALPHA SIGNAL: DIS | Score: 0.94 | Disney Stock Moved 1% Last Year. Can it Deliver Meaningful Gains in 2026?
+2026-02-14 10:31:28,083 - INFO - \U0001f680 HIGH ALPHA SIGNAL: DIS | Score: 0.90 | After earnings, is Disney stock a buy, a sell, or fairly valued? -
+2026-02-14 10:31:28,125 - INFO - \U0001f680 HIGH ALPHA SIGNAL: DIS | Score: 0.94 | Disney Stock Price Target Analysis 2026: Buy or Sell?
+2026-02-14 10:31:28,188 - INFO - \U0001f680 HIGH ALPHA SIGNAL: DIS | Score: 0.88 | Disney stock jumps Friday as DIS rebounds on CPI relief, $4 billion bond filing and California privacy settlement
+2026-02-14 10:31:28,248 - INFO - \U0001f680 HIGH ALPHA SIGNAL: DIS | Score: 0.97 | Disney Stock Tumbles On Weak Guidance After Earnings Fall; CEO Succession Nears End
+2026-02-14 10:31:28,358 - INFO - \U0001f680 HIGH ALPHA SIGNAL: DIS | Score: 0.94 | What is next for Disney after its Q1 earnings and succession plan? (DIS:NYSE)
+2026-02-14 10:31:28,417 - INFO - \U0001f680 HIGH ALPHA SIGNAL: DIS | Score: 0.97 | DIS stock today: Why Disney shares are dropping after mixed earnings report
+2026-02-14 10:31:38,281 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ADBE | Score: 0.94 | Adobe Stock (ADBE) Opinions on AI Disruption Fears
+2026-02-14 10:31:38,342 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ADBE | Score: 0.94 | Adobe: Outstanding Business At Outstanding Price (NASDAQ:ADBE)
+2026-02-14 10:31:38,455 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ADBE | Score: 0.91 | Why Is Adobe (ADBE) Stock Falling: AI Fears vs Fundamentals
+2026-02-14 10:31:38,491 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ADBE | Score: 0.94 | Why Adobe (ADBE) Stock Is Falling Today
+2026-02-14 10:31:38,538 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ADBE | Score: 0.94 | Adobe Inc. $ADBE Shares Sold by Varma Mutual Pension Insurance Co
+2026-02-14 10:31:38,601 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ADBE | Score: 0.87 | Adobe stock price slips again as AI and rate jitters hit software — what’s next for ADBE
+2026-02-14 10:31:38,653 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ADBE | Score: 0.97 | Adobe (ADBE) Stock: Slides Again as Software Sector Sees Broader Weakness
+2026-02-14 10:31:38,731 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ADBE | Score: 0.91 | Is Adobe Stock A Buy This Year?
+2026-02-14 10:31:46,064 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CRM | Score: 0.90 | CRM Stock Hits 52-Week Low: Why Wall Street, Retail Traders Are Unfazed
+2026-02-14 10:31:46,221 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CRM | Score: 0.94 | As Salesforce Acquires AI Startup Cimulate, Should You Buy, Sell, or Hold CRM Stock?
+2026-02-14 10:31:46,267 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CRM | Score: 0.91 | Salesforce Inc (CRM) Stock Price, Quote, News & History
+2026-02-14 10:31:46,311 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CRM | Score: 0.96 | Why Salesforce (CRM) Stock Is Down Today
+2026-02-14 10:31:46,368 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CRM | Score: 0.90 | What Is One of the Best Tech Stocks to Hold for the Next 10 Years?
+2026-02-14 10:31:46,546 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CRM | Score: 0.93 | $CRM stock is down 4% today. Here's what we see in our data.
+2026-02-14 10:31:58,672 - INFO - \U0001f680 HIGH ALPHA SIGNAL: XOM | Score: 0.93 | ExxonMobil Stock: Buy at a Premium or Wait for a Better Entry?
+2026-02-14 10:31:58,735 - INFO - \U0001f680 HIGH ALPHA SIGNAL: XOM | Score: 0.94 | Energy Stocks And Industry News: Oil, Gas, Solar, Coal And Nuclear Energy
+2026-02-14 10:31:58,800 - INFO - \U0001f680 HIGH ALPHA SIGNAL: XOM | Score: 0.92 | Exxon Mobil Corporation $XOM is Longbow Finance SA's 9th Largest Position
+2026-02-14 10:31:58,865 - INFO - \U0001f680 HIGH ALPHA SIGNAL: XOM | Score: 0.93 | Exxon Mobil Corp (XOM-N) Stock Price and News
+2026-02-14 10:31:59,003 - INFO - \U0001f680 HIGH ALPHA SIGNAL: XOM | Score: 0.86 | CHF101.01 intraday, +35.04%: XOM.SW Exxon Mobil (SIX) on 12 Feb, volume surge
+2026-02-14 10:31:59,057 - INFO - \U0001f680 HIGH ALPHA SIGNAL: XOM | Score: 0.92 | ExxonMobil announces third-quarter 2025 results
+2026-02-14 10:31:59,107 - INFO - \U0001f680 HIGH ALPHA SIGNAL: XOM | Score: 0.90 | 2 Dividend Energy Stocks to Buy in February
+2026-02-14 10:32:10,911 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CVX | Score: 0.93 | Chevron (CVX) Sees Mixed Options Sentiment as Stock Rises
+2026-02-14 10:32:11,018 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CVX | Score: 0.93 | Chevron | CVX Stock Price, Company Overview & News
+2026-02-14 10:32:11,214 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CVX | Score: 0.88 | Why Is Chevron Stock Gaining Wednesday? - Chevron (NYSE:CVX)
+2026-02-14 10:32:11,337 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CVX | Score: 0.95 | Chevron stock: Robust momentum and new Libya deal anchor consolidation despite intraday dip
+2026-02-14 10:32:11,466 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CVX | Score: 0.92 | Chevron (CVX) Stock: Energy Rally Lifts Shares Ahead of February Ex-Dividend
+2026-02-14 10:32:22,032 - INFO - \U0001f680 HIGH ALPHA SIGNAL: COST | Score: 0.93 | ET Prime Special - How companies manipulate interest cost
+2026-02-14 10:32:22,137 - INFO - \U0001f680 HIGH ALPHA SIGNAL: COST | Score: 0.96 | Cisco stock has worst day since 2022 as memory prices pressure margins
+2026-02-14 10:32:22,196 - INFO - \U0001f680 HIGH ALPHA SIGNAL: COST | Score: 0.87 | ANZ Group cash profit jumps, shares hit record high on cost cuts
+2026-02-14 10:32:22,239 - INFO - \U0001f680 HIGH ALPHA SIGNAL: COST | Score: 0.85 | How Do Changing Interest Rates Affect the Stock Market?
+2026-02-14 10:32:22,364 - INFO - \U0001f680 HIGH ALPHA SIGNAL: COST | Score: 0.90 | China bans below-cost car sales, here’s what it means for Tata Motors’ stock and its luxury cars
+2026-02-14 10:32:22,417 - INFO - \U0001f680 HIGH ALPHA SIGNAL: COST | Score: 0.95 | UK wealth manager and price comparison site shares fall amid AI fears
+2026-02-14 10:32:33,866 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PEP | Score: 0.95 | Public Sector Pension Investment Board Has $55.81 Million Stock Position in PepsiCo, Inc. $PEP
+2026-02-14 10:32:33,990 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PEP | Score: 0.97 | PepsiCo stock price slips Friday — what Wall Street watches next for PEP after its €2.5 billion euro notes sale
+2026-02-14 10:32:34,054 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PEP | Score: 0.93 | PepsiCo's drink sales are improving, and it's planning to cut snack prices
+2026-02-14 10:32:34,295 - INFO - \U0001f680 HIGH ALPHA SIGNAL: PEP | Score: 0.97 | PEP News Today, Nov 4: PepsiCo’s Stock Drops Amid Dividend and EPS Concerns
+2026-02-14 10:32:41,993 - INFO - \U0001f680 HIGH ALPHA SIGNAL: KO | Score: 0.95 | Coca-Cola forecasts modest growth amid demand concerns
+2026-02-14 10:32:42,057 - INFO - \U0001f680 HIGH ALPHA SIGNAL: KO | Score: 0.89 | Coca-Cola Hits 52-Week High: Should You Buy the Stock Now or Wait?
+2026-02-14 10:32:42,175 - INFO - \U0001f680 HIGH ALPHA SIGNAL: KO | Score: 0.96 | KO Stock Today: February 11 — Q4 Profit Slumps, Outlook Weighs on Shares
+2026-02-14 10:32:42,232 - INFO - \U0001f680 HIGH ALPHA SIGNAL: KO | Score: 0.94 | Buffett's All-Time Favorite Stock Is Dropping. What's Going On?
+2026-02-14 10:32:42,361 - INFO - \U0001f680 HIGH ALPHA SIGNAL: KO | Score: 0.93 | Coca-Cola (KO) Stock: Rises After CEO Signals Faster Market Strategy
+2026-02-14 10:32:42,459 - INFO - \U0001f680 HIGH ALPHA SIGNAL: KO | Score: 0.94 | Coca-Cola Stock (KO) Edging Towards High Ahead of Earnings
+2026-02-14 10:32:51,825 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AVGO | Score: 0.92 | AVGO Stock Quote Price and Forecast
+2026-02-14 10:32:51,874 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AVGO | Score: 0.94 | Should You Buy Or Sell Broadcom Stock At $340?
+2026-02-14 10:32:52,032 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AVGO | Score: 0.93 | Fund Update: 84,171 BROADCOM (AVGO) shares added to Haverford Trust Co portfolio
+2026-02-14 10:32:52,203 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AVGO | Score: 0.93 | AVGO: DA Davidson Initiates Coverage with Neutral Rating | AVGO Stock News
+2026-02-14 10:32:52,278 - INFO - \U0001f680 HIGH ALPHA SIGNAL: AVGO | Score: 0.92 | Broadcom (NASDAQ:AVGO) Stock Price Down 1% - Time to Sell?
+2026-02-14 10:33:01,896 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CSCO | Score: 0.97 | Cisco's stock drops 7% on mediocre forecast even as earnings and revenue top estimates
+2026-02-14 10:33:01,936 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CSCO | Score: 0.96 | Cisco Stock Falls Despite Earnings Beat
+2026-02-14 10:33:01,998 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CSCO | Score: 0.90 | Why Cisco’s stock is falling hard — and taking the tech sector with it
+2026-02-14 10:33:02,120 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CSCO | Score: 0.96 | CSCO Stock Tumbles Amid Gross Margin Miss — Why Does The Street See An Upside?
+2026-02-14 10:33:02,177 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CSCO | Score: 0.95 | Cisco Memory Chip Warning Sends Down Dell, HPE, Arista, NetApp Shares
+2026-02-14 10:33:02,225 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CSCO | Score: 0.96 | Cisco stock has worst day since 2022 as memory prices pressure margins
+2026-02-14 10:33:02,274 - INFO - \U0001f680 HIGH ALPHA SIGNAL: CSCO | Score: 0.94 | Cisco’s stock falls as investors pan a seemingly upbeat earnings report
+2026-02-14 10:33:12,700 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ORCL | Score: 0.86 | Earn 9.6% Today or Buy ORCL 50% Cheaper – It’s a Win-Win
+2026-02-14 10:33:12,762 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ORCL | Score: 0.94 | As Oracle Lands a New Air Force Win, Should You Buy, Sell, or Hold ORCL Stock?
+2026-02-14 10:33:12,826 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ORCL | Score: 0.95 | Key facts: Oracle's Stock Drops; Class Action Over AI Claims Filed; $25B AI Investment by 2026
+2026-02-14 10:33:12,883 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ORCL | Score: 0.94 | AI tool cutting doctors' paperwork 40% rolls out at UK NHS trusts
+2026-02-14 10:33:25,156 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ACN | Score: 0.96 | Accenture (NYSE:ACN) Hits New 12-Month Low After Insider Selling
+2026-02-14 10:33:25,216 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ACN | Score: 0.94 | Accenture stock price slides nearly 4% as CEO share sale, AI jitters weigh on ACN
+2026-02-14 10:33:25,281 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ACN | Score: 0.92 | $ACN stock is down 5% today. Here's what we see in our data.
+2026-02-14 10:33:25,441 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ACN | Score: 0.96 | Accenture PLC (ACN) Shares Gap Down to $244.6699 on Feb 3
+2026-02-14 10:33:25,480 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ACN | Score: 0.93 | Buy Or Sell Accenture Stock?
+2026-02-14 10:33:25,531 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ACN | Score: 0.90 | 2 Reasons to Like ACN and 1 to Stay Skeptical
+2026-02-14 10:33:25,590 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ACN | Score: 0.90 | ACN Stock Earnings Preview: What to Expect From Accenture’s Q1 FY26
+2026-02-14 10:33:25,651 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ACN | Score: 0.94 | Accenture PLC $ACN Shares Sold by Thrivent Financial for Lutherans
+2026-02-14 10:33:35,035 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ABT | Score: 0.97 | Abbott Tumbles On Disappointing Fourth Quarter As Exact Closing Looms
+2026-02-14 10:33:35,079 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ABT | Score: 0.96 | Why Abbott Laboratories (ABT) Shares Are Sliding Today
+2026-02-14 10:33:35,146 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ABT | Score: 0.87 | Late-breaking data presentations showcase the safety and efficacy of Abbott's ablation catheters to treat people with atrial fibrillation
+2026-02-14 10:33:35,199 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ABT | Score: 0.96 | Why Abbott Laboratories (ABT) Stock Is Falling Today
+2026-02-14 10:33:35,383 - INFO - \U0001f680 HIGH ALPHA SIGNAL: ABT | Score: 0.87 | The Truth About Abbott Laboratories: Is This ‘Boring’ Stock Actually a Secret Power Play?
+2026-02-14 10:33:43,533 - INFO - \U0001f680 HIGH ALPHA SIGNAL: LIN | Score: 0.92 | Linde (LIN) Receives Neutral Rating from JP Morgan | LIN Stock N
+2026-02-14 10:33:43,664 - INFO - \U0001f680 HIGH ALPHA SIGNAL: LIN | Score: 0.96 | Linde plc (LIN) Stock on December 9, 2025: 52\u2011Week Low, CEO Buying and Double\u2011Digit Upside Price Targets
+2026-02-14 10:33:43,731 - INFO - \U0001f680 HIGH ALPHA SIGNAL: LIN | Score: 0.93 | Fund Update: 363,900 LINDE PLC (LIN) shares added to FLOSSBACH VON STORCH SE portfolio
+2026-02-14 10:33:43,856 - INFO - \U0001f680 HIGH ALPHA SIGNAL: LIN | Score: 0.89 | Linde plc Stock (LIN) News Today: Analysts Refresh Price Targets as Hydrogen Projects and Dividend Payment Take Focus
+2026-02-14 10:33:44,097 - INFO - \U0001f680 HIGH ALPHA SIGNAL: LIN | Score: 0.94 | Linde plc Stock (NASDAQ: LIN) News, Forecasts and Analyst Outlook for Dec. 19, 2025
+2026-02-14 10:33:53,180 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MRK | Score: 0.85 | Merck stock upside: Why Deutsche Bank sees 26% growth despite Keytruda patent
+2026-02-14 10:33:53,234 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MRK | Score: 0.95 | MRK Up More Than 7% on Improved Long-Term Prospects: Still a Sell?
+2026-02-14 10:33:53,378 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MRK | Score: 0.86 | Calla Lily Clinical Care and Merck Announce Strategic Collaboration to Advance Intravaginal Drug Delivery Platform
+2026-02-14 10:33:53,492 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MRK | Score: 0.93 | Merck & Co., Inc. $MRK Shares Sold by Metis Global Partners LLC
+2026-02-14 10:33:53,601 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MRK | Score: 0.86 | Merck: Pipeline Building Despite The Light FY26 Guide, Major Momentum
+2026-02-14 10:33:53,644 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MRK | Score: 0.89 | Is Merck Stock A Trap At $110?
+2026-02-14 10:33:53,707 - INFO - \U0001f680 HIGH ALPHA SIGNAL: MRK | Score: 0.96 | Merck (MRK) stock swings, ends flat after FDA clears Keytruda regimen in ovarian cancer
+2026-02-14 10:34:03,883 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TMO | Score: 0.93 | Thermo Fisher (TMO) stock nudges higher after filing for new bond sale tied to Clario deal
+2026-02-14 10:34:03,956 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TMO | Score: 0.97 | Thermo Fisher Scientific (TMO) Is Down 7.2% After Stronger\u2011Than\u2011Expected 2025 Earnings Beat Expectations - What's Changed
+2026-02-14 10:34:04,005 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TMO | Score: 0.96 | Thermo Fisher slips after issuing 2026 outlook (update)
+2026-02-14 10:34:04,062 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TMO | Score: 0.95 | TMO Stock Set to Gain From the Expansion of Gibco Bacto Portfolio
+2026-02-14 10:34:04,227 - INFO - \U0001f680 HIGH ALPHA SIGNAL: TMO | Score: 0.93 | Thermo Fisher (TMO) Q4 Earnings: What To Expect
