@@ -47,12 +47,4 @@ python -m streamlit run app.py
 ### 📈 Signal Logic
 The engine generates an Alpha Score (0.0 to 1.0). When a ticker hits a confidence threshold (default: 0.85), a high-conviction signal is logged in alpha_alerts.log and broadcasted to the dashboard leaderboard.
 
-## 📂 Project Structure
-```text
-AlphaPulse/
-├── venv/               # Virtual environment (Local only)
-├── .gitignore          # Professional exclusion rules
-├── config.py           # Centralized global settings [Day 1]
-├── db_manager.py       # DuckDB schema & connection logic [Day 2]
-├── requirements.txt    # Project dependencies
-└── README.md           # Documentation
+
